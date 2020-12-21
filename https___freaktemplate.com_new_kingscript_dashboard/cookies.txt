@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+freaktemplate.com	TRUE	/	FALSE	1999999999	laravel_session	eyJpdiI6InUyc0lGMjhMSlJtdXRqXC84aE9Pc1FBPT0iLCJ2YWx1ZSI6ImZjVzI5ZER6b1VjVlZCWWVHVmdLZFRnVzgxNE1vbHBWbnRuQXo3bXhidDFpMGJYT3NZVUUzTEZHUkcrQlwvT0JqIiwibWFjIjoiOTkxOTc4ODQyNjY3MTk1OWJjMzVlZTRhMGM5ZThhMGIxZmU4NDI5ZWIzNmRmODE4NDMyMGNjZjhhYzMyY2Y2ZiJ9
+.freaktemplate.com	TRUE	/	FALSE	1999999999	__cfduid	d22f70148cc91a0dac5c6355a58218faa1607317471
+freaktemplate.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
